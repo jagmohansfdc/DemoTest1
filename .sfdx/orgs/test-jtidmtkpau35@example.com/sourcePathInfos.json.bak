@@ -1,8 +1,8 @@
 [
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app",
             "isDirectory": true,
             "size": 96,
             "modifiedTime": 1523058939711,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main",
             "isDirectory": true,
             "size": 96,
             "modifiedTime": 1523058939711,
@@ -30,9 +30,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default",
             "isDirectory": true,
             "size": 320,
             "modifiedTime": 1524525129265,
@@ -43,9 +43,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura",
             "isDirectory": true,
             "size": 224,
             "modifiedTime": 1524525774967,
@@ -57,9 +57,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation",
+        "/Users/i860042/SFDX_Demo/jagmohanTest",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest",
             "isDirectory": true,
             "size": 352,
             "modifiedTime": 1524416564802,
@@ -71,9 +71,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
             "size": 404,
             "modifiedTime": 1524414804437,
@@ -84,9 +84,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9708,
             "modifiedTime": 1524414804454,
@@ -97,9 +97,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9756,
             "modifiedTime": 1524414804470,
@@ -110,9 +110,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9708,
             "modifiedTime": 1524414804481,
@@ -123,9 +123,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 9756,
             "modifiedTime": 1524414804488,
@@ -136,9 +136,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
             "size": 366,
             "modifiedTime": 1524414804491,
@@ -149,9 +149,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/objects/Account/fields",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
             "size": 96,
             "modifiedTime": 1524414804437,
@@ -162,9 +162,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/objects/Account",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/objects/Account",
             "isDirectory": true,
             "size": 96,
             "modifiedTime": 1524414804435,
@@ -175,9 +175,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/objects",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/objects",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/objects",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/objects",
             "isDirectory": true,
             "size": 96,
             "modifiedTime": 1524414804435,
@@ -188,9 +188,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/layouts",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/layouts",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/layouts",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/layouts",
             "isDirectory": true,
             "size": 192,
             "modifiedTime": 1524414804487,
@@ -201,9 +201,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/permissionsets",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/permissionsets",
             "isDirectory": true,
             "size": 96,
             "modifiedTime": 1524414804491,
@@ -214,9 +214,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/classes",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/classes",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/classes",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/classes",
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1524522844260,
@@ -227,9 +227,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/classes/AccountController.cls",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
             "size": 292,
             "modifiedTime": 1524522913802,
@@ -240,9 +240,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
             "size": 195,
             "modifiedTime": 1524522844260,
@@ -253,9 +253,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "size": 352,
             "modifiedTime": 1524523241984,
@@ -266,9 +266,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
             "isDirectory": false,
             "size": 209,
             "modifiedTime": 1524523241983,
@@ -279,22 +279,22 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 221,
             "modifiedTime": 1524543501000,
             "changeTime": 1524543501679,
-            "contentHash": "783ceba974bee6421a84e8477a3e37cdd3483358"
+            "contentHash": "783ceba974bee6421a84e8477a3e37cdd3483358",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
             "size": 246,
             "modifiedTime": 1524523241973,
@@ -305,9 +305,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
             "size": 129,
             "modifiedTime": 1524523265605,
@@ -318,9 +318,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.design",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.design",
             "isDirectory": false,
             "size": 40,
             "modifiedTime": 1524523241984,
@@ -331,9 +331,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
             "isDirectory": false,
             "size": 661,
             "modifiedTime": 1524523241978,
@@ -344,9 +344,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
             "size": 65,
             "modifiedTime": 1524523241974,
@@ -357,9 +357,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1524523241975,
@@ -370,9 +370,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1524523241976,
@@ -383,9 +383,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
             "size": 267,
             "modifiedTime": 1524523682440,
@@ -396,9 +396,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "size": 4684,
             "modifiedTime": 1524523682446,
@@ -409,9 +409,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "size": 4680,
             "modifiedTime": 1524523682451,
@@ -422,9 +422,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "size": 5020,
             "modifiedTime": 1524523682460,
@@ -435,9 +435,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "size": 17723,
             "modifiedTime": 1524523682482,
@@ -448,9 +448,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/tabs",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/tabs",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/tabs",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/tabs",
             "isDirectory": true,
             "size": 96,
             "modifiedTime": 1524523682440,
@@ -461,9 +461,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/profiles",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/profiles",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/profiles",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/profiles",
             "isDirectory": true,
             "size": 192,
             "modifiedTime": 1524523682481,
@@ -474,9 +474,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList",
             "isDirectory": true,
             "size": 352,
             "modifiedTime": 1524524480683,
@@ -487,9 +487,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem",
             "isDirectory": true,
             "size": 352,
             "modifiedTime": 1524524405824,
@@ -500,9 +500,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.auradoc",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.auradoc",
             "isDirectory": false,
             "size": 209,
             "modifiedTime": 1524524480682,
@@ -513,22 +513,22 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "size": 339,
-            "modifiedTime": 1524524487987,
-            "changeTime": 1524524487987,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
+            "size": 551,
+            "modifiedTime": 1524543937292,
+            "changeTime": 1524543937292,
+            "contentHash": "98603e195abd40efabeddb300838b9436bff055e",
             "isMetadataFile": false,
             "state": "u"
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
             "isDirectory": false,
             "size": 243,
             "modifiedTime": 1524524480676,
@@ -539,9 +539,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.css",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
             "size": 111,
             "modifiedTime": 1524524595559,
@@ -552,9 +552,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.design",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.design",
             "isDirectory": false,
             "size": 40,
             "modifiedTime": 1524524480683,
@@ -565,9 +565,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.svg",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountList.svg",
             "isDirectory": false,
             "size": 661,
             "modifiedTime": 1524524480681,
@@ -578,22 +578,22 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1524524562000,
-            "changeTime": 1524524562284,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "size": 391,
+            "modifiedTime": 1524544915000,
+            "changeTime": 1524544915886,
+            "contentHash": "4ead7d6664daacd6d370ba5ca33c29e3383c1e8c",
             "isMetadataFile": false,
             "state": "u"
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountListHelper.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountListHelper.js",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1524524480678,
@@ -604,9 +604,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountListRenderer.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountList/AccountListRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1524524480680,
@@ -617,9 +617,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
             "isDirectory": false,
             "size": 209,
             "modifiedTime": 1524524405823,
@@ -630,9 +630,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
             "size": 120,
             "modifiedTime": 1524524415862,
@@ -643,9 +643,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
             "isDirectory": false,
             "size": 247,
             "modifiedTime": 1524524405809,
@@ -656,9 +656,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.css",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.css",
             "isDirectory": false,
             "size": 168,
             "modifiedTime": 1524524442296,
@@ -669,9 +669,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.design",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.design",
             "isDirectory": false,
             "size": 40,
             "modifiedTime": 1524524405824,
@@ -682,9 +682,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
             "isDirectory": false,
             "size": 661,
             "modifiedTime": 1524524405817,
@@ -695,9 +695,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
             "isDirectory": false,
             "size": 65,
             "modifiedTime": 1524524405812,
@@ -708,9 +708,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1524524405814,
@@ -721,9 +721,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1524524405816,
@@ -734,9 +734,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet.resource-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet.resource-meta.xml",
             "isDirectory": false,
             "size": 209,
             "modifiedTime": 1524525129266,
@@ -747,9 +747,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
             "isDirectory": false,
             "size": 1259,
             "modifiedTime": 1524525129375,
@@ -760,9 +760,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images/layers.png",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images/layers.png",
             "isDirectory": false,
             "size": 696,
             "modifiedTime": 1524525129375,
@@ -773,9 +773,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
             "isDirectory": false,
             "size": 2464,
             "modifiedTime": 1524525129376,
@@ -786,9 +786,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
             "isDirectory": false,
             "size": 1466,
             "modifiedTime": 1524525129377,
@@ -799,9 +799,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
             "isDirectory": false,
             "size": 618,
             "modifiedTime": 1524525129377,
@@ -812,9 +812,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/leaflet-src.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/leaflet-src.js",
             "isDirectory": false,
             "size": 396928,
             "modifiedTime": 1524525129379,
@@ -825,9 +825,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
             "isDirectory": false,
             "size": 755043,
             "modifiedTime": 1524525129383,
@@ -838,9 +838,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/leaflet.css",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/leaflet.css",
             "isDirectory": false,
             "size": 14198,
             "modifiedTime": 1524525129384,
@@ -851,9 +851,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/leaflet.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/leaflet.js",
             "isDirectory": false,
             "size": 139643,
             "modifiedTime": 1524525129385,
@@ -864,9 +864,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/leaflet.js.map",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/leaflet.js.map",
             "isDirectory": false,
             "size": 190004,
             "modifiedTime": 1524525129386,
@@ -877,9 +877,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources",
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1524525129373,
@@ -890,9 +890,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet/images",
             "isDirectory": true,
             "size": 224,
             "modifiedTime": 1524525129377,
@@ -903,9 +903,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/staticresources/leaflet",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/staticresources/leaflet",
             "isDirectory": true,
             "size": 256,
             "modifiedTime": 1524525129386,
@@ -916,9 +916,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
             "size": 352,
             "modifiedTime": 1524525209710,
@@ -929,9 +929,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
             "size": 209,
             "modifiedTime": 1524525209709,
@@ -942,22 +942,22 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "size": 256,
-            "modifiedTime": 1524525235192,
-            "changeTime": 1524525235192,
-            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234",
+            "size": 330,
+            "modifiedTime": 1524545068804,
+            "changeTime": 1524545068804,
+            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3",
             "isMetadataFile": false,
             "state": "u"
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
             "size": 242,
             "modifiedTime": 1524525209704,
@@ -968,9 +968,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1524525282248,
@@ -981,9 +981,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
             "size": 40,
             "modifiedTime": 1524525209710,
@@ -994,9 +994,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
             "size": 661,
             "modifiedTime": 1524525209708,
@@ -1007,22 +1007,22 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "size": 396,
-            "modifiedTime": 1524542503000,
-            "changeTime": 1524542503566,
-            "contentHash": "468a6384d7bb29ccf187920e9629d0be2c7025fa",
+            "size": 793,
+            "modifiedTime": 1524545215891,
+            "changeTime": 1524545215891,
+            "contentHash": "9f7cb4d762ec805fd3337b2637c5e9dfcc64a347",
             "isMetadataFile": false,
             "state": "u"
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
             "size": 45,
             "modifiedTime": 1524525209706,
@@ -1033,9 +1033,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
             "size": 50,
             "modifiedTime": 1524525209707,
@@ -1046,9 +1046,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountsLoaded",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountsLoaded",
             "isDirectory": true,
             "size": 128,
             "modifiedTime": 1524525774968,
@@ -1059,9 +1059,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
             "isDirectory": false,
             "size": 100,
             "modifiedTime": 1524525802000,
@@ -1072,9 +1072,9 @@
         }
     ],
     [
-        "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
         {
-            "sourcePath": "/Users/i860042/my_sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "sourcePath": "/Users/i860042/SFDX_Demo/jagmohanTest/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
             "size": 242,
             "modifiedTime": 1524525774968,
